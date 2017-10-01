@@ -9,7 +9,7 @@ function produceDrivingRange(blockRange) {
     if (different > 0){
       return `within range by ${difference}`
     } else {
-        return blockRange * something
+      return blockRange * something
     }
   }
 }
