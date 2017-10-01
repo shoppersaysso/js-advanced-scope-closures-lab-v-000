@@ -4,3 +4,9 @@ function produceDrivingRange(blockRange) {
     return blockRange * something
   }
 }
+
+function produceTipCalculator(){
+  return function(){
+    
+  }
+}
